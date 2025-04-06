@@ -43,7 +43,7 @@ function navigateTo(page) {
           <div class="card">
             <h2>About the Project</h2>
             <p>Our AI-based Sign Language Translator enables real-time gesture translation into text and speech using computer vision and machine learning. It aims to bridge communication gaps for the deaf and mute community.</p>
-            <p style="margin-top: 1rem;"><strong>GitHub Repo:</strong> <a href="#" style="color: #2563eb;">Link here</a></p>
+            <p style="margin-top: 1rem;"><strong>GitHub Repo:</strong> <a href="https://github.com/YamanaMHM/Sing_Language_Translator.git" style="color: #2563eb;">https://github.com/YamanaMHM/Sing_Language_Translator.git</a></p>
           </div>
         </section>
       `;
